@@ -260,7 +260,7 @@ public class DArtistas extends javax.swing.JDialog {
     private void btn_busdiscoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_busdiscoActionPerformed
         // TODO add your handling code here:
         DBuscaDiscos bd = new DBuscaDiscos(null,true);
-        bd.setVisible(true);
+//        bd.setVisible(true);
     }//GEN-LAST:event_btn_busdiscoActionPerformed
 
     
